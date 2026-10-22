@@ -1,0 +1,2 @@
+# keep every file byte-exact (CR LF in the .bas files is needed by the calculator)
+* -text
